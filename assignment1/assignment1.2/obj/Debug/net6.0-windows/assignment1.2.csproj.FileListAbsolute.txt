@@ -1,0 +1,17 @@
+E:\作业\软构\作业\Fundamentals-of-Software-Construction\assignment1\assignment1.2\bin\Debug\net6.0-windows\assignment1.2.exe
+E:\作业\软构\作业\Fundamentals-of-Software-Construction\assignment1\assignment1.2\bin\Debug\net6.0-windows\assignment1.2.deps.json
+E:\作业\软构\作业\Fundamentals-of-Software-Construction\assignment1\assignment1.2\bin\Debug\net6.0-windows\assignment1.2.runtimeconfig.json
+E:\作业\软构\作业\Fundamentals-of-Software-Construction\assignment1\assignment1.2\bin\Debug\net6.0-windows\assignment1.2.dll
+E:\作业\软构\作业\Fundamentals-of-Software-Construction\assignment1\assignment1.2\bin\Debug\net6.0-windows\assignment1.2.pdb
+E:\作业\软构\作业\Fundamentals-of-Software-Construction\assignment1\assignment1.2\obj\Debug\net6.0-windows\assignment1.2.csproj.AssemblyReference.cache
+E:\作业\软构\作业\Fundamentals-of-Software-Construction\assignment1\assignment1.2\obj\Debug\net6.0-windows\assignment1._2.Form1.resources
+E:\作业\软构\作业\Fundamentals-of-Software-Construction\assignment1\assignment1.2\obj\Debug\net6.0-windows\assignment1.2.csproj.GenerateResource.cache
+E:\作业\软构\作业\Fundamentals-of-Software-Construction\assignment1\assignment1.2\obj\Debug\net6.0-windows\assignment1.2.GeneratedMSBuildEditorConfig.editorconfig
+E:\作业\软构\作业\Fundamentals-of-Software-Construction\assignment1\assignment1.2\obj\Debug\net6.0-windows\assignment1.2.AssemblyInfoInputs.cache
+E:\作业\软构\作业\Fundamentals-of-Software-Construction\assignment1\assignment1.2\obj\Debug\net6.0-windows\assignment1.2.AssemblyInfo.cs
+E:\作业\软构\作业\Fundamentals-of-Software-Construction\assignment1\assignment1.2\obj\Debug\net6.0-windows\assignment1.2.csproj.CoreCompileInputs.cache
+E:\作业\软构\作业\Fundamentals-of-Software-Construction\assignment1\assignment1.2\obj\Debug\net6.0-windows\assignment1.2.dll
+E:\作业\软构\作业\Fundamentals-of-Software-Construction\assignment1\assignment1.2\obj\Debug\net6.0-windows\refint\assignment1.2.dll
+E:\作业\软构\作业\Fundamentals-of-Software-Construction\assignment1\assignment1.2\obj\Debug\net6.0-windows\assignment1.2.pdb
+E:\作业\软构\作业\Fundamentals-of-Software-Construction\assignment1\assignment1.2\obj\Debug\net6.0-windows\assignment1.2.genruntimeconfig.cache
+E:\作业\软构\作业\Fundamentals-of-Software-Construction\assignment1\assignment1.2\obj\Debug\net6.0-windows\ref\assignment1.2.dll
