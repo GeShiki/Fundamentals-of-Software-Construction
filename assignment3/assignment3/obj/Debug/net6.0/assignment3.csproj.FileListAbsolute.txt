@@ -1,0 +1,15 @@
+E:\作业\软构\作业\Fundamentals-of-Software-Construction\assignment3\assignment3\bin\Debug\net6.0\assignment3.exe
+E:\作业\软构\作业\Fundamentals-of-Software-Construction\assignment3\assignment3\bin\Debug\net6.0\assignment3.deps.json
+E:\作业\软构\作业\Fundamentals-of-Software-Construction\assignment3\assignment3\bin\Debug\net6.0\assignment3.runtimeconfig.json
+E:\作业\软构\作业\Fundamentals-of-Software-Construction\assignment3\assignment3\bin\Debug\net6.0\assignment3.dll
+E:\作业\软构\作业\Fundamentals-of-Software-Construction\assignment3\assignment3\bin\Debug\net6.0\assignment3.pdb
+E:\作业\软构\作业\Fundamentals-of-Software-Construction\assignment3\assignment3\obj\Debug\net6.0\assignment3.csproj.AssemblyReference.cache
+E:\作业\软构\作业\Fundamentals-of-Software-Construction\assignment3\assignment3\obj\Debug\net6.0\assignment3.GeneratedMSBuildEditorConfig.editorconfig
+E:\作业\软构\作业\Fundamentals-of-Software-Construction\assignment3\assignment3\obj\Debug\net6.0\assignment3.AssemblyInfoInputs.cache
+E:\作业\软构\作业\Fundamentals-of-Software-Construction\assignment3\assignment3\obj\Debug\net6.0\assignment3.AssemblyInfo.cs
+E:\作业\软构\作业\Fundamentals-of-Software-Construction\assignment3\assignment3\obj\Debug\net6.0\assignment3.csproj.CoreCompileInputs.cache
+E:\作业\软构\作业\Fundamentals-of-Software-Construction\assignment3\assignment3\obj\Debug\net6.0\assignment3.dll
+E:\作业\软构\作业\Fundamentals-of-Software-Construction\assignment3\assignment3\obj\Debug\net6.0\refint\assignment3.dll
+E:\作业\软构\作业\Fundamentals-of-Software-Construction\assignment3\assignment3\obj\Debug\net6.0\assignment3.pdb
+E:\作业\软构\作业\Fundamentals-of-Software-Construction\assignment3\assignment3\obj\Debug\net6.0\assignment3.genruntimeconfig.cache
+E:\作业\软构\作业\Fundamentals-of-Software-Construction\assignment3\assignment3\obj\Debug\net6.0\ref\assignment3.dll
