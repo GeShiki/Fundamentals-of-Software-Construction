@@ -1,0 +1,15 @@
+E:\作业\软构\作业\Fundamentals-of-Software-Construction\assignment4\assignment4.1\assignment4.1\bin\Debug\net6.0\assignment4.1.exe
+E:\作业\软构\作业\Fundamentals-of-Software-Construction\assignment4\assignment4.1\assignment4.1\bin\Debug\net6.0\assignment4.1.deps.json
+E:\作业\软构\作业\Fundamentals-of-Software-Construction\assignment4\assignment4.1\assignment4.1\bin\Debug\net6.0\assignment4.1.runtimeconfig.json
+E:\作业\软构\作业\Fundamentals-of-Software-Construction\assignment4\assignment4.1\assignment4.1\bin\Debug\net6.0\assignment4.1.dll
+E:\作业\软构\作业\Fundamentals-of-Software-Construction\assignment4\assignment4.1\assignment4.1\bin\Debug\net6.0\assignment4.1.pdb
+E:\作业\软构\作业\Fundamentals-of-Software-Construction\assignment4\assignment4.1\assignment4.1\obj\Debug\net6.0\assignment4.1.csproj.AssemblyReference.cache
+E:\作业\软构\作业\Fundamentals-of-Software-Construction\assignment4\assignment4.1\assignment4.1\obj\Debug\net6.0\assignment4.1.GeneratedMSBuildEditorConfig.editorconfig
+E:\作业\软构\作业\Fundamentals-of-Software-Construction\assignment4\assignment4.1\assignment4.1\obj\Debug\net6.0\assignment4.1.AssemblyInfoInputs.cache
+E:\作业\软构\作业\Fundamentals-of-Software-Construction\assignment4\assignment4.1\assignment4.1\obj\Debug\net6.0\assignment4.1.AssemblyInfo.cs
+E:\作业\软构\作业\Fundamentals-of-Software-Construction\assignment4\assignment4.1\assignment4.1\obj\Debug\net6.0\assignment4.1.csproj.CoreCompileInputs.cache
+E:\作业\软构\作业\Fundamentals-of-Software-Construction\assignment4\assignment4.1\assignment4.1\obj\Debug\net6.0\assignment4.1.dll
+E:\作业\软构\作业\Fundamentals-of-Software-Construction\assignment4\assignment4.1\assignment4.1\obj\Debug\net6.0\refint\assignment4.1.dll
+E:\作业\软构\作业\Fundamentals-of-Software-Construction\assignment4\assignment4.1\assignment4.1\obj\Debug\net6.0\assignment4.1.pdb
+E:\作业\软构\作业\Fundamentals-of-Software-Construction\assignment4\assignment4.1\assignment4.1\obj\Debug\net6.0\assignment4.1.genruntimeconfig.cache
+E:\作业\软构\作业\Fundamentals-of-Software-Construction\assignment4\assignment4.1\assignment4.1\obj\Debug\net6.0\ref\assignment4.1.dll
